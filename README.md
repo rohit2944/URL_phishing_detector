@@ -33,4 +33,4 @@ The app uses simple client-side heuristics to check if a URL might be a phishing
 
 ## Project Structure
 ## To run as a web application 
-https://Rohit 2944.github.io/URL_phishing_detector/
+https://Rohit2944.github.io/URL_phishing_detector/
